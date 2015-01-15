@@ -39,7 +39,7 @@ ps -xc|grep -sq Chrome &amp;&amp; osascript -e 'tell app "Google Chrome"' -e 'ac
 	<key>outputFormat</key>
 	<string>text</string>
 	<key>outputLocation</key>
-	<string>toolTip</string>
+	<string>discard</string>
 	<key>uuid</key>
 	<string>DC2CB570-74DB-487A-BA32-C630BBDD60E3</string>
 	<key>version</key>
