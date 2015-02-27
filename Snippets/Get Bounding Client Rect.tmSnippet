@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.getBoundingClientRect()</string>
+	<key>name</key>
+	<string>Get Bounding Client Rect</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>.g</string>
+	<key>uuid</key>
+	<string>0B747445-73B6-4085-99E6-BB37EA572DA3</string>
+</dict>
+</plist>
